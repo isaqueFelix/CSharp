@@ -1,0 +1,72 @@
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\database.mdf
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\database_log.ldf
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\database.mdf
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\database_log.ldf
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+E:\Download\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.exe.config
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.exe
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.pdb
+E:\Download\ArtigosProfessor - Parte3\Artigos\bin\Debug\database.mdf
+E:\Download\ArtigosProfessor - Parte3\Artigos\bin\Debug\database_log.ldf
+E:\Download\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.exe
+E:\Download\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.pdb
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Cadastrar.resources
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Dashboard.resources
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Login.resources
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+E:\Download\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.exe
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.pdb
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\bin\Debug\database.mdf
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\bin\Debug\database_log.ldf
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.exe
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.pdb
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\Samsung\Desktop\ProgramArtigo\ArtigosProfessor - Parte3\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.exe
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.pdb
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\bin\Debug\database.mdf
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\bin\Debug\database_log.ldf
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.exe
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\bin\Debug\Artigos.pdb
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor - Parte3\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos.exe
+C:\Users\Samsung\Documents\GitHub\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos.pdb
