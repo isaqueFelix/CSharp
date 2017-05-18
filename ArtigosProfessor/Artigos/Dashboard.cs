@@ -45,7 +45,7 @@ namespace Artigos
 
         private void btnArtigos_Click(object sender, EventArgs e)
         {
-            new Artigos().Show();
+            new Artigos().ShowDialog();
         }
     }
 }

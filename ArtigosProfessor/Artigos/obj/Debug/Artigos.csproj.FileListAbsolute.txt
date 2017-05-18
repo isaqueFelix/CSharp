@@ -85,3 +85,4 @@ C:\Users\internet\Source\Repos\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos
 C:\Users\internet\Source\Repos\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos.Login.resources
 C:\Users\internet\Source\Repos\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos.Properties.Resources.resources
 C:\Users\internet\Source\Repos\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\internet\Source\Repos\CSharp\ArtigosProfessor\Artigos\obj\Debug\Artigos.CadastrarArtigos.resources
