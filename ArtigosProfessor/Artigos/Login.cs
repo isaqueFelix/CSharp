@@ -58,8 +58,6 @@ namespace Artigos
         {
             var frm = new Cadastrar();
             frm.ShowDialog(); 
-
-            
         }
     }
 }

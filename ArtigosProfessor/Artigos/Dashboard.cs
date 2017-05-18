@@ -33,6 +33,7 @@ namespace Artigos
             {
                 button1.Enabled = true;
             }
+            btnArtigos.Enabled = true;
         }
 
         //btnUsuarios
@@ -44,7 +45,7 @@ namespace Artigos
 
         private void btnArtigos_Click(object sender, EventArgs e)
         {
-
+            new Artigos().Show();
         }
     }
 }
