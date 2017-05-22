@@ -21,5 +21,10 @@ namespace Artigos
         {
             new CadastrarArtigos().ShowDialog();
         }
+
+        private void Artigos_Load(object sender, EventArgs e)
+        {
+            //teste
+        }
     }
 }

@@ -75,6 +75,7 @@
             this.Name = "Artigos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Artigos";
+            this.Load += new System.EventHandler(this.Artigos_Load);
             this.ResumeLayout(false);
 
         }
